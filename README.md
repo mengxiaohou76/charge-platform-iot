@@ -31,10 +31,11 @@
 ![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/3de1b342-4035-4b5d-b2af-fb38862aca82)
 ![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/9febfa30-55c1-4e6e-8d5f-e8a36c2aeb5a)
 ![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/5daadb15-21a4-43c9-958a-d37e6fcd280a)
-![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/021b134f-a307-42f7-a459-c9b2de1f3763)
+![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/ceab998d-f322-4130-ac82-de5ea2eff08d)
 ![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/c903b53b-2849-4833-bf1b-f4e07a29dc33)
 ![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/49362d98-5737-4d39-af5d-91209099b378)
-![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/294d9efb-2d1b-4a70-b74a-f5aa956453eb)
+![image](https://github.com/mengxiaohou76/charge-platform-iot/assets/141597806/14a798ee-94d7-49a0-8df6-b23f68c2a186)
+
 
 
 #### 软件架构
